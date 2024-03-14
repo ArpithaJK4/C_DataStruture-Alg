@@ -1,4 +1,4 @@
-#include<stdio.h>
+  #include<stdio.h>
 #include<ctype.h>
  char stack[50];
    int top=-1;
